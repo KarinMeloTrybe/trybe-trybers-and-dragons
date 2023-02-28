@@ -8,7 +8,7 @@ abstract class Race {
   }
 
   getName(): string {
-    return this.name;
+    return this.name; 
   }
 
   get dexterity() : number {
